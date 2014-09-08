@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker run --name="oooserver" -t -i --rm xcgd/libreoffice-server
+docker run --name="oooserver" -d xcgd/libreoffice-server
