@@ -3,7 +3,7 @@ MAINTAINER florent.aide@gmail.com
 
 RUN apt-get update && apt-get -y -q install libreoffice libreoffice-writer ure libreoffice-java-common libreoffice-core libreoffice-common openjdk-7-jre && apt-get -q -y remove libreoffice-gnome
 
-EXPOSE 899
+EXPOSE 8997
 
 RUN adduser --home=/opt/libreoffice --disabled-password --gecos "" --shell=/bin/bash libreoffice
 
