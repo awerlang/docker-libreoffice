@@ -13,7 +13,7 @@ https://registry.hub.docker.com/u/xcgd/py3o.fusion/
 Note to users
 =============
 
-We packaged quite a few hyphen rules and fonts in this docker but I is quite possible that
+We packaged quite a few hyphen rules and fonts in this docker but It is quite possible that
 your preferred font or language hyphen rules are missing.
 
 If this is the case please dont hesitate to visit our ticket tracker and ask for inclusion:
