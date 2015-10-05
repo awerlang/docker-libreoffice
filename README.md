@@ -1,7 +1,7 @@
 LibreOffice
 ===========
 
-This is a dockerized LibreOffice packaged as a headess server. It is not meant
+This is a dockerized LibreOffice packaged as a headless server. It is not meant
 for desktop usage.
 
 This is part of the py3o suite to render ODT documents to PDF or other supported formats.
